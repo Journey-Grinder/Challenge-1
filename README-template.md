@@ -15,7 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,15 +30,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- Positioning
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
